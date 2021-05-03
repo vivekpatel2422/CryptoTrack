@@ -59,8 +59,15 @@
     color: #fff;
 }
 
-.coinPriceChange {
+.coinPriceChangeUp {
     background-color: #008000;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    color: #fff;
+}
+
+.coinPriceChangeDown {
+    background-color: #ff0000;
     padding: 0.5rem;
     border-radius: 0.5rem;
     color: #fff;
