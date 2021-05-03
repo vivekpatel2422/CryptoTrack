@@ -15,6 +15,21 @@
   margin-top: 50px;
 }
 
+.search {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.searchField {
+  font-size: 14px;
+  width: 400px;
+  height: 40px;
+  border-radius: 1rem;
+  border-color: #444444;
+  text-align: center;
+}
+
 .cardContainer {
   display: flex;
   justify-content: center;
